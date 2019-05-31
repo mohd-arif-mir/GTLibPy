@@ -100,6 +100,11 @@ or if you want to **disable** logs again you can use **GT_DisableLogs()** method
 # Trainer Demo :
 As a demo of this module IGI 1 Trainer is included to show demo of all the **GT**LiPy methods and how to use them in making simple game trainer.
 
+# GTLibPy Tutorial on YouTube :
+[![GTLibPy Demo](https://img.youtube.com/vi/uOsQ0Yna6zs/0.jpg)](https://www.youtube.com/watch?v=uOsQ0Yna6zs)
+
+# Download from PIP : [GTLibPy](https://pypi.org/project/GT-LibPy/)
+
 **DOCUMENTATION INFO :**
 All Public and Semi-Private methods are well documented.
 but private methods are not documented as it was not necessary to do so.
